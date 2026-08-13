@@ -1,0 +1,3 @@
+SELECT DISTINCT branch
+FROM Student
+ORDER BY branch ASC;
